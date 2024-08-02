@@ -4,7 +4,7 @@
 <br><br>
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+Sean Kim;Research+on+Remote+Sensing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=2c98b0&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Sean Kim;Research+on+Remote+Sensing" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
 <details>
 <summary>About Me</summary>
@@ -16,7 +16,7 @@ GeoScientist
 
 ## EDUCATION
 Bachelor Degree of Earth Science System and Atmospheric Science```(03/2020 ~ 08/2024)``` (Yonsei University, Seoul)   
-MS-Ph.D. integrated course of Earth Science System(Satellite GeoScience Laboratory)  ```(08/2024 ~ )``` (Yonsei University, Seoul)   
+MS-Ph.D. integrated course of Earth Science System```(08/2024 ~ )``` (Yonsei University, Seoul)   
 
 ## ADDITIONAL SKILLS
 <span>
@@ -29,11 +29,11 @@ MS-Ph.D. integrated course of Earth Science System(Satellite GeoScience Laborato
     <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ Qgis-#589632?style=plastic&logo=Qgis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Qgis-green?style=plastic&logo=Qgis&logoColor=white"/>
 </span>
 
 ## Publications 
-
+TBW
 
 </div>
 </div>
