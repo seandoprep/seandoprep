@@ -4,7 +4,7 @@
 <br><br>
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=2c98b0&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Sean Kim;Research+on+Remote+Sensing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=2c98b0&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Sean Kim;Research+on+Remote+Sensing+&+GeoScience" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
 <details>
 <summary>About Me</summary>
