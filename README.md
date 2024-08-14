@@ -16,7 +16,7 @@ GeoScientist
 
 ## EDUCATION
 Bachelor Degree of Earth Science System and Atmospheric Science```(03/2020 ~ 08/2024)``` (Yonsei University, Seoul)   
-MS-Ph.D. integrated course of Earth Science System```(09/2024 ~ )``` (Yonsei University, Seoul)   
+MS-Ph.D. integrated course of Earth Science System in Satellite Geoscience Lab```(09/2024 ~ )``` (Yonsei University, Seoul)   
 
 ## ADDITIONAL SKILLS
 <span>
